@@ -1,4 +1,3 @@
 hello world!
-hello wenyunzhang!
 hello python~
 today i am a happy girl~
